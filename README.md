@@ -11,8 +11,8 @@
 ![Requests](https://img.shields.io/badge/Requests-2.28+-orange?logo=python&logoColor=white)
 
 <!-- Группа 2: Статистика -->
-![Книг](https://img.shields.io/badge/Книг-~95-007EC6?logo=bookstack&logoColor=white)
-![Страниц](https://img.shields.io/badge/Страниц-~15K-2ea44f?logo=buffer&logoColor=white)
+![Книг](https://img.shields.io/badge/Книг-~205-007EC6?logo=bookstack&logoColor=white)
+![Страниц](https://img.shields.io/badge/Страниц-~20K-2ea44f?logo=buffer&logoColor=white)
 ![Качество](https://img.shields.io/badge/Качество-4_пресета-blueviolet?logo=slickpic&logoColor=white)
 
 </div>
