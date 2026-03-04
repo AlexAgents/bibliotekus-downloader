@@ -1,0 +1,47 @@
+# ─── Данные проекта ─────────────────────────
+data/
+*.log
+
+# ─── Сборка EXE ─────────────────────────────
+dist/
+build/
+*.spec
+*.exe
+
+# ─── Python ─────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+
+# ─── Виртуальное окружение ──────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ─── IDE ────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# ─── ОС ────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ─── Временные файлы ───────────────────────
+*.tmp
+*.temp
+tmp/
+temp/
