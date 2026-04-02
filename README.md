@@ -5,8 +5,8 @@
 > Полнофункциональный загрузчик книг с [bibliotekus.artlebedev.ru](https://bibliotekus.artlebedev.ru) в PDF с автоматической оптимизацией качества и размера.
 
 <!-- Группа 1: Ссылки и Технологии -->
-[![Release](https://img.shields.io/github/v/release/qexela/bibliotekus-downloader?logo=github&color=blue)](https://github.com/qexela/bibliotekus-downloader/releases/latest)
-[![License](https://img.shields.io/github/license/qexela/bibliotekus-downloader?color=yellow)](https://github.com/qexela/bibliotekus-downloader/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/AlexAgents/bibliotekus-downloader?logo=github&color=blue)](https://github.com/AlexAgents/bibliotekus-downloader/releases/latest)
+[![License](https://img.shields.io/github/license/AlexAgents/bibliotekus-downloader?color=yellow)](https://github.com/AlexAgents/bibliotekus-downloader/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2.28+-orange?logo=python&logoColor=white)
 
